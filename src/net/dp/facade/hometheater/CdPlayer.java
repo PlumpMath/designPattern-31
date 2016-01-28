@@ -12,7 +12,7 @@ public class CdPlayer {
 	}
  
 	public void on() {
-		System.out.println(description + " on");
+		System.out.println(description + " on=======>");
 	}
  
 	public void off() {
